@@ -1,0 +1,21 @@
+{
+    "name": "elegant-code",
+    "displayName": "ElegantCode",
+    "description": "A Fully awesome Dark theme with perfect color contrasts.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ElegantCode Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ElegantCode Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
